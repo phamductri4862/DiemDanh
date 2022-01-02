@@ -1,0 +1,7 @@
+/node_modules
+/file
+/spec
+/report
+fakeDD.html
+package-lock.json
+report.txt
